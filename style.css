@@ -6,7 +6,7 @@ body{
 #welcome{
     position: absolute;
     bottom:0;
-    background: linear-gradient(  Black 33%,red 67%, White 33%);
+    background: linear-gradient(  Black 20%,red 67%, White 46%);
     display:table;
     width:100%;
     height:100%;
@@ -34,4 +34,11 @@ body{
     padding-right:9px;
     padding-bottom:5px;
     font-family:'Times New Roman', Times, serif;
+    color: white;
 }
+    .line{
+        background-color: blue;
+        width: width;
+        height: 6px;
+        margin-bottom: 15px;
+    }
